@@ -1,0 +1,39 @@
+/* src/components/Header.css */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background-color: #f8f8f8;
+}
+
+.header__logo {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.header__nav {
+  display: flex;
+}
+
+.header__nav-list {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+  margin: 0;
+  padding: 0;
+}
+
+.header__nav-item {
+  font-size: 1em;
+}
+
+.header__nav-item a {
+  text-decoration: none;
+  color: #333;
+  transition: color 0.3s ease;
+}
+
+.header__nav-item a:hover {
+  color: #007BFF;
+}

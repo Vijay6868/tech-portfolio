@@ -1,0 +1,18 @@
+/* src/App.css */
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.App header,
+.App main,
+.App footer {
+  flex-shrink: 0;
+}
+
+.App main {
+  flex-grow: 1;
+  background-color: #e9ecef;
+}
