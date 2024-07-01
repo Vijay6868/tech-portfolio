@@ -9,13 +9,14 @@ const Resume = () => {
         <div className="resume__section">
           <h2>Skills</h2>
           <ul>
-            <li>Jupyter notebook, Python, Visual Studio, C#, R, .NET</li>
-            <li>Power BI, Machine learning</li>
+            <li>Python, Java, C#,, .NET</li>
+            <li>JavaScript, HTML, CSS, React, .NET</li>
+            <li>Power BI, Jupyter notebook, pandas</li>
             <li>SQL Server, Oracle DBMS</li>
-            <li>NoSQL, PLSQL, SSIS, API's</li>
-            <li>GitHub, Azure, Firebase</li>
+            <li>Excel, NoSQL, PLSQL, SSIS, API's</li>
+            <li>GitHub, Android Stduio, Firebase</li>
             <li>Linux, Bash scripting</li>
-            <li>Problem solving & Analytical thinking</li>
+            <li>Problem solving & Analytical skills</li>
           </ul>
         </div>
         <div className="resume__section">
