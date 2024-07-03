@@ -31,8 +31,7 @@ const Resume = () => {
           <h2>Contact</h2>
           <ul>
             <li>Auckland, New Zealand</li>
-            <li>+64210331172</li>
-            <li>saroyaV3@gmail.com</li>
+            <li>saroyav3@gmail.com</li>
             <li><a href="https://www.linkedin.com/in/vijay68" target="_blank" rel="noopener noreferrer">linkedin.com/in/vijay68</a></li>
             <li><a href="https://github.com/Vijay6868" target="_blank" rel="noopener noreferrer">github.com/Vijay6868</a></li>
           </ul>
