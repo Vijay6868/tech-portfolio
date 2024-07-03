@@ -11,11 +11,11 @@ const ContactInfo = () => {
         <p>saroyav3@gmail.com</p>
       </div>
       <div>
-        <h3>GitHub</h3>
+        <h3>linkedin</h3>
         <p><a href="https://www.linkedin.com/in/vj68" target="_blank" rel="noopener noreferrer">vj68</a></p>
       </div>
       <div>
-        <h3>LinkedIn</h3>
+        <h3>GitHub</h3>
         <p><a href="https://github.com/Vijay6868" target="_blank" rel="noopener noreferrer">Vijay6868</a></p>
       </div>
     </section>
