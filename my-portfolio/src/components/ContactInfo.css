@@ -1,7 +1,39 @@
+/* src/components/ContactInfo.css */
 .contact-info {
   display: flex;
-  justify-content: space-around;
-  padding: 20px;
-  background-color: #f1f3f5;
-  border-top: 1px solid #ddd;
+  justify-content: center;
+  margin: 20px;
+}
+
+.contact-info div {
+  display: flex;
+  align-items: center;
+  margin: 0 40px; /* Increase horizontal margin between the contact items */
+}
+
+.contact-info .icon {
+  font-size: 2em; /* Increase the size of the icons */
+  margin-right: 10px; /* Add space between the icon and the text */
+}
+
+.contact-info p {
+  margin: 0;
+  font-size: 1.2em;
+}
+
+.contact-info a {
+  text-decoration: none;
+  color: #000;
+}
+
+.contact-info a:hover {
+  color: #0073b1; /* LinkedIn blue */
+}
+
+.contact-info .fa-github:hover {
+  color: #333; /* GitHub black */
+}
+
+.contact-info .fa-envelope:hover {
+  color: #d14836; /* Gmail red */
 }
