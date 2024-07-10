@@ -11,16 +11,16 @@ const Projects = () => {
       <div className="projects__content">
       <div className="projects__item">
           <h2>MS Fabric Bing News</h2>
-          <p>This project aims to develop a machine learning model to predict the prices of used Toyota cars in California. By leveraging a Random Forest regression model, the solution provides accurate price predictions based on car model, year, and mileage. The project also includes an interactive dashboard for users to input car details and receive price predictions, along with a summary of the car inventory.</p>
+          <p>This is a Data Engineering project</p>
           <Carousel showThumbs={false}>
             <div>
-              <img src="design.png" alt="Project 2 Image 1" />
+              <img src="dash2.png" alt="Project 2 Image 1" />
             </div>
             <div>
-              <img src="dashboard.png" alt="Project 2 Image 2" />
+              <img src="fabric1.png" alt="Project 2 Image 2" />
             </div>
             <div>
-              <img src="actualvspredicted.png" alt="Project 2 Image 3" />
+              <img src="fabric2.png" alt="Project 2 Image 3" />
             </div>
           </Carousel>
         </div>
@@ -45,13 +45,16 @@ const Projects = () => {
           <p>This project aims to develop a machine learning model to predict the prices of used Toyota cars in California. By leveraging a Random Forest regression model, the solution provides accurate price predictions based on car model, year, and mileage. The project also includes an interactive dashboard for users to input car details and receive price predictions, along with a summary of the car inventory.</p>
           <Carousel showThumbs={false}>
             <div>
-              <img src="design.png" alt="Project 2 Image 1" />
+              <img src="design.png" alt="Project 2 design" />
             </div>
             <div>
-              <img src="dashboard.png" alt="Project 2 Image 2" />
+              <img src="dashboard.png" alt="Project 2 dashboard" />
             </div>
             <div>
-              <img src="actualvspredicted.png" alt="Project 2 Image 3" />
+              <img src="actualvspredicted.png" alt="Project 2 actual vd predicted" />
+            </div>
+            <div>
+              <img src="7.png" alt="Project 2 Image 3" />
             </div>
           </Carousel>
         </div>
