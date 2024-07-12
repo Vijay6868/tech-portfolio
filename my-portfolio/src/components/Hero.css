@@ -1,32 +1,46 @@
+/* src/components/Hero.css */
 .hero {
   display: flex;
   align-items: center;
   justify-content: center;
   padding: 100px;
   background-color: #e9ecef;
-  flex: 1;
+  flex-wrap: wrap; /* Allow wrapping for better responsiveness */
 }
 
 .hero__image {
-  width: 450px;
+  width: 450px; /* Adjust size for better responsiveness */
   height: 450px;
   border-radius: 50%;
   object-fit: cover;
-  margin-right: 20px;
+  margin-right: 50px;
 }
 
 .hero__content {
   text-align: left;
+  max-width: 1000px; /* Set a max-width for better layout */
 }
 
 .hero__content h1 {
-  font-size: 4em;
+  font-size: 3em; /* Adjust font size for better responsiveness */
 }
 
 .hero__content h2 {
   font-size: 2em;
   color: #666;
 }
+
 .hero__content p {
-  font-size: 1.7em;
+  font-size: 1.5em;
+}
+
+.badges {
+  margin-top: 50px;
+  
+}
+
+.badge {
+  width: 100px; /* Adjust size as needed */
+  height: auto;
+  margin-right: 10px;
 }
