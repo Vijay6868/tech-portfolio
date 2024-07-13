@@ -75,7 +75,7 @@ const Projects = () => {
         </div>
 
         <div className="projects__item">
-          <h2>ABI Solution: Predict price of used cars</h2>
+          <h2>ABI Solution: Predict price of used cars using Machine learning techniques</h2>
           <p>This project aims to develop a machine learning model to predict the prices of used Toyota cars in California. 
             By leveraging a Random Forest regression model, 
             the solution provides accurate price predictions based on car model, year, and mileage. 
