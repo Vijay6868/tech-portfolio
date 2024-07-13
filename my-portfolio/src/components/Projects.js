@@ -33,6 +33,29 @@ const Projects = () => {
           </Carousel>
         </div>
         <div className="projects__item">
+          <h2>Earthquake Events</h2>
+          <p>This project demonstrates an end-to-end data engineering solution using the 
+            USGS Earthquake API to build a robust data pipeline. The primary focus is on 
+            leveraging the Medallion Architecture to efficiently process, transform, 
+            and analyze earthquake data. The project integrates Azure Data Factory for orchestrating 
+            data workflows and Microsoft Fabric for advanced data visualization and reporting.</p>
+            
+          <Carousel showThumbs={false}>
+            <div>
+              <img src="earthquake_events/1.png" alt="Project 2 Image 1" />
+            </div>
+            <div>
+              <img src="earthquake_events/2.png" alt="Project 2 Image 2" />
+            </div>
+            <div>
+              <img src="earthquake_events/3.png" alt="Project 2 Image 2" />
+            </div>
+            <div>
+              <img src="earthquake_events/4.png" alt="Project 2 Image 3" />
+            </div>
+          </Carousel>
+        </div>
+        <div className="projects__item">
           <h2>Quiz Time - Android Mobile Application</h2>
           <p>A platform where users can create, manage, and participate in quiz tournaments. 
             There are two types of users: Admin and Player. 
