@@ -97,6 +97,33 @@ const Projects = () => {
           </Carousel>
         </div>
 
+        <div className="projects__item">
+          <h2>Lake Wakatipu</h2>
+          <p>A web application that allows users to book seats on a boat, 
+            order food, and play the “Catch the Bug” game.</p>
+          <Carousel showThumbs={false}>
+            <div>
+              <img src="lake_wakatipu/1.png" alt="Project 2 design" />
+            </div>
+            <div>
+              <img src="lake_wakatipu/2.png" alt="Project 2 dashboard" />
+            </div>
+            <div>
+              <img src="lake_wakatipu/3.png" alt="Project 2" />
+            </div>
+            <div>
+              <img src="lake_wakatipu/4.png" alt="Project 2 Image 3" />
+            </div>
+            <div>
+              <img src="lake_wakatipu/5.png" alt="Project 2 Image 3" />
+            </div>
+            <div>
+              <img src="lake_wakatipu/6.png" alt="Project 2 Image 3" />
+            </div>
+          
+          </Carousel>
+        </div>
+
 
         {/* Add more projects as needed */}
       </div>
