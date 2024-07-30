@@ -30,18 +30,26 @@ const Projects = () => {
           </Carousel>
         </div>
         
-
         <div className="projects__item">
-          <h2>QuoteWell - An Android Mobile Application</h2>
-          <p>QuoteWell is an Android application that allows users to fetch and display quotes based on a specified keyword. 
-            It utilizes the ZenQuotes API for fetching quotes.</p>
-            
+          <h2>Quiz Time - Android Mobile Application</h2>
+          <p>A platform where users can create, manage, and participate in quiz tournaments. 
+            There are two types of users: Admin and Player. 
+            Admin users have the ability to create and manage tournaments, 
+            while Player users can participate in tournaments and interact with them.</p>
           <Carousel showThumbs={false}>
             <div>
-              <img src="quoteWellwide.png" alt="Project 2 Image 1" />
+              <img src="img4.png" alt="Project 1 Image 1" />
+            </div>
+            <div>
+              <img src="img2.png" alt="Project 1 Image 2" />
+            </div>
+            <div>
+              <img src="img3.png" alt="Project 1 Image 3" />
             </div>
           </Carousel>
         </div>
+
+        
 
 
         <div className="projects__item">
@@ -91,21 +99,16 @@ const Projects = () => {
             </div>
           </Carousel>
         </div>
+
+
         <div className="projects__item">
-          <h2>Quiz Time - Android Mobile Application</h2>
-          <p>A platform where users can create, manage, and participate in quiz tournaments. 
-            There are two types of users: Admin and Player. 
-            Admin users have the ability to create and manage tournaments, 
-            while Player users can participate in tournaments and interact with them.</p>
+          <h2>QuoteWell - An Android Mobile Application</h2>
+          <p>QuoteWell is an Android application that allows users to fetch and display quotes based on a specified keyword. 
+            It utilizes the ZenQuotes API for fetching quotes.</p>
+            
           <Carousel showThumbs={false}>
             <div>
-              <img src="img4.png" alt="Project 1 Image 1" />
-            </div>
-            <div>
-              <img src="img2.png" alt="Project 1 Image 2" />
-            </div>
-            <div>
-              <img src="img3.png" alt="Project 1 Image 3" />
+              <img src="quoteWellwide.png" alt="Project 2 Image 1" />
             </div>
           </Carousel>
         </div>
