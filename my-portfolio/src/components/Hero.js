@@ -9,10 +9,20 @@ const Hero = () => {
         <h1>Hello</h1>
         <h2>A Bit About Me</h2>
         <p>
-          Welcome to my site, I'm a dedicated professional specializing in Data and Software Development.
-          As a certified Azure AI Engineer and Data Engineer,
-          I leverage technology to solve real-world problems and deliver innovative solutions.
-          My projects reflect my commitment to quality and excellence. I’m always eager to connect and explore new opportunities in the tech industry!
+        From a young age, I have been enthusiastic about computers 
+        and often wondered how software works, aspiring to create my own. 
+        My curiosity led me to discover programming languages, which ignited my motivation for self-study. 
+        With the assistance of a developer, I began learning and practicing C programming. 
+        Over time, I realized that software engineering was my true calling, 
+        prompting me to enroll in the Bachelor of Computing Systems program at Unitec, 
+        where I am currently in my final year.</p>
+
+        <p>
+        My passion extends beyond software development to encompass Data and AI. Recently, 
+        I have earned certifications as an Azure Data Engineer and an AI Engineer Associate. 
+        Additionally, I dedicate my Fridays to volunteering as a Service Desk Analyst for a 
+        local community organization, gaining practical experience and contributing to my 
+        community.
         </p>
         <div className="badges">
           <img src={`${process.env.PUBLIC_URL}/azure_ai.png`} alt="AI Engineer Badge" className="badge" />

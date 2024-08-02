@@ -108,7 +108,7 @@ const Projects = () => {
             
           <Carousel showThumbs={false}>
             <div>
-              <img src="quoteWellwide.png" alt="Project 2 Image 1" />
+              <img src="quotewell.png" alt="Project 2 Image 1" />
             </div>
           </Carousel>
         </div>
