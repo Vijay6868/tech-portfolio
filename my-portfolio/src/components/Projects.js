@@ -50,7 +50,25 @@ const Projects = () => {
         </div>
 
         
-
+        <div className="projects__item">
+          <h2>ANPR: Azure AI Custom Vison Project. </h2>
+          <p>This project demonstrates how to use Azure Custom Vision and Azure Computer Vision OCR to detect 
+            and read number plates from images of cars. The project involves
+          detecting the number plate in the image using a trained Custom Vision model.</p>
+            
+          <Carousel showThumbs={false}>
+            <div>
+              <img src="ANPR_custom_vision_Azure/4.png" alt="Project 2 Image 1" />
+            </div>
+            <div>
+              <img src="ANPR_custom_vision_Azure/1.png" alt="Project 2 Image 1" />
+            </div>
+            <div>
+              <img src="ANPR_custom_vision_Azure/2.png" alt="Project 2 Image 1" />
+            </div>
+            
+          </Carousel>
+        </div>
 
         <div className="projects__item">
           <h2>MS Fabric Bing News</h2>
