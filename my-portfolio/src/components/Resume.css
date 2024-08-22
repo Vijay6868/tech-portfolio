@@ -9,35 +9,39 @@
   
   .resume__left {
     width: 30%;
-    padding-right: 20px;
+    
     border-right: 1px solid #ccc;
     padding-left: 50px;
   }
   
   .resume__right {
     width: 70%;
-    padding-left: 50px;
-    padding-right: 150px;
+    padding-left: 100px;
+    padding-right: 190px;
   }
   
   .resume__section {
     margin-bottom: 20px;
+    
   }
   
   .resume__section h2 {
     margin-top: 0;
-    color: #333;
+    color: #114168;
+    
   }
   
   .resume__section h3 {
     margin-bottom: 5px;
-    color: #333;
+    color: #114168;
+    
   }
   
   .resume__section p,
   .resume__section ul {
     margin: 5px 0;
-    color: #666;
+    color: #000000;
+    
   }
   
   .resume__section ul {
@@ -52,4 +56,8 @@
   
   .resume__section a:hover {
     text-decoration: underline;
+  }
+  .resume__coursework {
+    display: flex;
+    flex-wrap: wrap;
   }
