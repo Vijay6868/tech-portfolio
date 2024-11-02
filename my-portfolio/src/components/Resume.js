@@ -75,7 +75,7 @@ const Resume = () => {
           </div>
           
           <div>
-            <h3>Community Support Worker – Walsh Trust (July 17 - Current)</h3>
+            <h3>Community Support Worker – Walsh Trust (July 2017 - Current)</h3>
            
           </div>
         </div>
