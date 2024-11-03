@@ -57,6 +57,15 @@ const Resume = () => {
         <div className="resume__section">
           <h2>Experience</h2>
           <div>
+            <h3>Software Developer Intern  – Arahura Trust (Nov 2020 - Aug 2021)</h3>
+            <p></p>
+            <ul>
+              <li>Developed Patient Management System records to record Patient's Progress</li>
+              <li>Reduced data entry time by 50% and improved data accuracy by 40%.</li>
+              <li>Streamlined workflows, enabling a 25% increase in patient load management.</li>
+            </ul>
+          </div>
+          <div>
             <h3>IT Service-Desk Analyst – Ranui Action Project (May 24 - Current)</h3>
             
             <ul>
