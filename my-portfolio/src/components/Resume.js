@@ -57,7 +57,7 @@ const Resume = () => {
         <div className="resume__section">
           <h2>Experience</h2>
           <div>
-            <h3>Software Developer Intern  – Arahura Trust (Nov 2020 - Aug 2021)</h3>
+            <h3>Full Stack Developer  – PrompTech (Nov 2020 - Aug 2021)</h3>
             <p></p>
             <ul>
               <li>Developed Patient Management System records to record Patient's Progress</li>
