@@ -60,7 +60,7 @@ const Resume = () => {
             <h3>Full Stack Developer  – PrompTech (Nov 2020 - Aug 2021)</h3>
             <p></p>
             <ul>
-              <li>Developed Patient Management System records to record Patient's Progress</li>
+              <li>Implemented CV data extraction feature by training and integrating Azure AI model.</li>
               <li>Reduced data entry time by 50% and improved data accuracy by 40%.</li>
               <li>Streamlined workflows, enabling a 25% increase in patient load management.</li>
             </ul>
