@@ -61,7 +61,7 @@ const Resume = () => {
             <p></p>
             <ul>
               <li>Implemented CV data extraction feature by training and integrating Azure AI model.</li>
-              <li>Reduced data entry time by 50% and improved data accuracy by 40%.</li>
+              <li>Designed and implemented a Flask-based backend in Python, enhancing system functionality and API integration</li>
               <li>Streamlined workflows, enabling a 25% increase in patient load management.</li>
             </ul>
           </div>
