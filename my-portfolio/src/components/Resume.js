@@ -57,7 +57,7 @@ const Resume = () => {
         <div className="resume__section">
           <h2>Experience</h2>
           <div>
-            <h3>AI Engineer Intern  – PrompTech (Nov 2020 - Aug 2021)</h3>
+            <h3>software Engineer Intern  – PrompTech (Nov 2020 - Aug 2021)</h3>
             <p></p>
             <ul>
               <li>Implemented CV data extraction feature by training and integrating Azure AI model.</li>
